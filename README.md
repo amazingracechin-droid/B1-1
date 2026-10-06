@@ -258,5 +258,6 @@ Few-shot 3개(1개는 모호한 입력 되묻기) → 충족
 v1→v2 비교 + 추론 과정 미노출 규칙 → 충족
 환각 검증 5개 이상(6개) + Pass/Fail 기준 → 충족
 10턴 이상 대화 + 조건변경·추가정보 + 문맥유지 Pass → 충족
+```
 
 <img width="959" height="806" alt="image" src="https://github.com/user-attachments/assets/873a38d1-228f-406d-bf0c-13bfb4c35177" />
